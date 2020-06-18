@@ -3,27 +3,19 @@
 Admin Dashboard for managing BID system
 
 <p align="center">
-  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/homescreen.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic1.jpg" width="200" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/optionshomescreen.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="200" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/findsitters.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="200" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/sitterdetails.jpg" width="200" height="390">
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/createrequest.jpg" width="200" height="390">
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="https://github.com/FSitter/bsiter-mobile-app/raw/master/assets/images/skillsncerts.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="200" height="390">
 </p>
 
 
