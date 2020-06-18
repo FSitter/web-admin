@@ -3,19 +3,21 @@
 Admin Dashboard for managing BID system
 
 <p align="center">
-  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic1.jpg" width="200" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="700" height="390">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic3.jpg" width="350" height="250">
   &nbsp;
   &nbsp;
   &nbsp;
-  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic2.jpg" width="200" height="390">
+  <img src="https://github.com/FSitter/web-admin/raw/development/src/assets/images/pic4.jpg" width="420" height="250">
+  &nbsp;
+  &nbsp;
+  &nbsp;
 </p>
 
 
